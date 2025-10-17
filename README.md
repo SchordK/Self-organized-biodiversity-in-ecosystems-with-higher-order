@@ -4,10 +4,10 @@ This repository contains code for the paper titled "Self-organized biodiversity 
 All codes are written in Matlab.
 
 ## Authors:
-- Ju Kang<sup>1;</sup>
+- Ju Kang<sup>1</sup>
 - Yiyuan Niu<sup>2</sup>
-- Yuanzhi Li<sup>1;</sup>
-- Chengjin Chu<sup>1;</sup> (Corresponding Author)
+- Yuanzhi Li<sup>1</sup>
+- Chengjin Chu<sup>1</sup> (Corresponding Author)
 
 ## Authors' Affiliations:
 1. School of Ecology, Sun Yat-sen University, Shenzhen 518107, China
